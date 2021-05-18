@@ -1,0 +1,2 @@
+/home/codio/workspace/TextAdventureDungeonGame/CMakeFiles/game.dir
+/home/codio/workspace/TextAdventureDungeonGame/CMakeFiles/source.dir
